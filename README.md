@@ -2,7 +2,7 @@
 Healthy Lifestyles For Students
 
 Group Members Name:
-1. Aiman Atif(leader)
+1. Aiman Atif (leader)
 2. Rija Fatima
 3. Kashaf Azmat
  
