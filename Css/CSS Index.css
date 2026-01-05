@@ -9,9 +9,8 @@ body{
 .hov{
     background-color: #dbebde;
     text-align: center;
-    padding: 12px;
 }
-nav a{
+a{
     color: white;
     background-color: rgb(101, 135, 128);
     padding: 10px 20px;
