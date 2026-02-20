@@ -13,4 +13,4 @@ We have included forms,excercises and diet plan in Our Website for students to o
 Excercises include are simple and diet shared will be helpful for them in order to have healthy lifestyle.
    
 LIVE WEBSITE LINK:
-Your site is live at https://amiii28.github.io/Healthy-Lifestyle-Students/
+Your site is live at https://aiman049.github.io/Healthy-Lifestyle-Students/
